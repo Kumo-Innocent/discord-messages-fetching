@@ -102,8 +102,8 @@ $final = array();
 get_data(
     array(
         'limit' => 100,
-        'chan' => 1281191548603727892,
-        'author' => 1279024803050946564
+        'chan' => "CHAN_ID",
+        'author' => "AUTHOR_ID"
     ),
     headers: array(
         'accept: */*',
