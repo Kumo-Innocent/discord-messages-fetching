@@ -8,3 +8,5 @@ This script got a cooldown of 1.2s between each request.
 You need to get your authorisation token from Discord.\
 To do so, open devtools, go to the Network tab, and look for a discord entry by searching "/messages".\
 Take the "Authorization" entry from the request headers and paste it to the code.
+
+You also need to set the channel ID and the author ID.
